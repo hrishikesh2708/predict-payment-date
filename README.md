@@ -1,2 +1,2 @@
-# predict-payment-date
+# Predict Payment Date
 ML Model to predict payment date 
